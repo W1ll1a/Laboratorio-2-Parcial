@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="c_digo">Codigo de Clase</string>
+    <string name="nombre">Nombre</string>
+    <string name="secci_n">Seccion</string>
+    <string name="hora">Hora</string>
+    <string name="aula">Aula</string>
+    <string name="registrar_alumno">Registrar Alumno</string>
+    <string name="piso">Piso</string>
+    <string name="registrar_clase">Registrar Clase</string>
+    <string name="realizar_matr_cula">Realizar Matricula</string>
+    <string name="ingresar_notas">Ingresar Notas</string>
+    <string name="enviar_notas">Enviar Notas</string>
+    <string name="enviar_matr_cula">Enviar Matricula</string>
+    <string name="matricular"> Matricular</string>
+    <string name="guardarNotas"> Guardar Notas</string>
+
+
+</resources>
